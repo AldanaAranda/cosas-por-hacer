@@ -22,4 +22,4 @@ Este es un proyecto de una lista de tareas interactivas (To-Do List) realizado c
 
 ##🚀 **Cómo Visualizar el Proyecto**
 
-Puedes acceder al proyecto directamente desde este [enlace]().
+Puedes acceder al proyecto directamente desde este [enlace](https://cosas-hacer.netlify.app/).
